@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,AngularJs,VueJs**
 
-- 👯 I’m looking to collaborate on **Crypto Backend**
+- 👯 I’m looking to collaborate on **Any Open Source Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maaznizam290](https://github.com/maaznizam290)
 
