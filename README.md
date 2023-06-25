@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaznizam290&label=Profile%20views&color=0e75b6&style=flat" alt="maaznizam290" /> </p>
 
-- 🔭 I’m currently working on **Crud Application**
+- 🔭 I’m currently working on **Web 3 Projects**
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,AngularJs,VueJs**
 
